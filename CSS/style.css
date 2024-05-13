@@ -2,10 +2,11 @@
     padding: 20px;
 }
 h1{
-    background-color: bisque;
+    background-color: yellow;
+    padding: 20px;
 }
 .paragraph{
-    color: red;
+    color: green;
 }
 .text{
     color: red;
